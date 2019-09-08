@@ -12,7 +12,7 @@ Create a single web page rendering search results similar to https://www.zizoo.c
 
 ## GraphQL details
 
-To authenticate API calls, please add the following header to the request `x-api-key:da2-6gsug3rxuja75nqnom63x2vi`
+To authenticate API calls, please add the following header to the request `x-api-key:da2-6gsug3rxuja75nqnom67h3x2vi`
 
 - Schema: schema.json
 - Endpoint: https://f3rqrapxrfgxbinryu2s3aurkq.appsync-api.eu-west-1.amazonaws.com/graphql
