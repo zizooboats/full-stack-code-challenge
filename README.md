@@ -9,7 +9,7 @@ Create a single web page rendering search results similar to https://www.zizoo.c
 - Create simple react component for a search listing card based located in this repo.
 - Request search results from a GraphQL API for all **active** boats.
 - Render the results using the API response and the react component.
-- Create a basic filtering solution for boat length (< 15 / >= 15) and boat year (< 2010 / >= 2010).
+- Create a basic filtering solution for boat length (< 15 OR >= 15) and boat year (< 2010 OR >= 2010).
 
 ## GraphQL details
 
