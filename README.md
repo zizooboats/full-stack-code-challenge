@@ -28,3 +28,6 @@ Create a single web page rendering search results similar to https://www.zizoo.c
 ## Estimated solution Time
 
 4-6 hours
+
+## UI Design
+![](design.png)
