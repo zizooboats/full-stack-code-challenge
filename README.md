@@ -1,4 +1,4 @@
-# Zizoo Full-Stack Code Challenge
+# Zizoo Frontend Code Challenge
 
 ## Goal
 
@@ -7,10 +7,14 @@ Create a single web page rendering search results similar to https://www.zizoo.c
 ## Tasks
 
 - Create simple react component for a search listing card based located in this repo.
-- Request search results from a GraphQL API for all **active** boats.
+- Request search results from a **GraphQL API** for all **active** boats.
 - Render the results using the API response and the react component.
 - Create a basic filtering solution for boat length (< 15 OR >= 15) and boat year (< 2010 OR >= 2010).
 - Bonus (not mandatory): Instead of a static boat photo, implement a photo-slider.
+  - _You can also repeat the same image, doesn't need to be different or use or use plaseholder for more images_
+    like:
+    - [https://placeholder.com/](https://placeholder.com/)
+    - [https://loremflickr.com/](https://loremflickr.com/)
 
 ## GraphQL details
 
