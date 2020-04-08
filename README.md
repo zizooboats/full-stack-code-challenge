@@ -11,7 +11,7 @@ Create a single web page rendering search results similar to https://www.zizoo.c
 - Render the results using the API response and the react component.
 - Create a basic filtering solution for boat length (< 15 OR >= 15) and boat year (< 2010 OR >= 2010).
 - Bonus (not mandatory): Instead of a static boat photo, implement a photo-slider.
-  - _You can also repeat the same image, doesn't need to be different or use or use plaseholder for more images_
+  - _You can also repeat the same image, it doesn't need to be different or use placeholders for more images_
     like:
     - [https://placeholder.com/](https://placeholder.com/)
     - [https://loremflickr.com/](https://loremflickr.com/)
