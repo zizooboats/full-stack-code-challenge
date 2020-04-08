@@ -26,7 +26,7 @@ Create a single web page rendering search results similar to https://www.zizoo.c
 - Upload a zip file containing the solution’s source code to Greenhouse.
 - The solution should be built and run using `npm run`.
 - The search result page should be accessible using the path http://localhost:[PORT]/search
-- The solution will be evaluated for functionality, coding style and UX *In that order*.
+- The solution will be evaluated for functionality, UX and coding style *In that order*.
 - *Important* Pixel perfect implementation is not a priority.
 
 ## Estimated solution Time
