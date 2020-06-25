@@ -1,4 +1,4 @@
-# Zizoo Full-Stack Code Challenge
+# Zizoo Code Challenge
 
 ## Goal
 
@@ -19,10 +19,10 @@ Create a single web page rendering search results similar to https://www.zizoo.c
 
 ## Test submission process and evaluation
 
-- Upload a zip file containing the solution’s source code to Greenhouse.
-- The solution should be built and run using `npm run`.
+- Upload a zip file containing the solution’s source code to [Greenhouse](https://greenhouse.io). `Do not include the node_modules folder`.
+- Provide a `README` file containing instructions on how to run your application.
 - The search result page should be accessible using the path http://localhost:[PORT]/search
-- The solution will be evaluated for functionality, coding style and UX *In that order*.
+- The solution will be evaluated for functionality, UI/UX and coding style *In that order*.
 - *Important* Pixel perfect implementation is not a priority.
 
 ## Estimated solution Time
