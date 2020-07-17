@@ -14,8 +14,8 @@ Create a single web page rendering search results similar to https://www.zizoo.c
 
 ## GraphQL details
 
-- Schema: [playground](https://sls-sandbox.zizoo.com/graphql)
 - Endpoint: https://sls-sandbox.zizoo.com/graphql
+  - _See the schema in the endpoint above. (GraphQL Playground)._ ☝️
 
 ## Test submission process and evaluation
 
